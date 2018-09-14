@@ -1,0 +1,7 @@
+# httpwebsocket
+c++实现websocket通讯
+
+httpwebsocket是server的代码
+httpwebsocketclient是client的代码
+
+运行两个程序可以学习 websocket的通讯方式
